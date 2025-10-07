@@ -1,6 +1,6 @@
 # 💰 Controle Financeiro Pessoal
 
-## 👨‍💻 Desenvolvido por: Bernardo Correa
+## 👨‍💻 Desenvolvido por: Guilherme Correia
 ## 📚 Disciplina: Desenvolvimento de Aplicações Mobile
 
 ## 📱 Sobre o Projeto
