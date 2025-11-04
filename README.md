@@ -75,6 +75,13 @@ CRUD completo para categorias personalizadas.
 ### 📋 Lista de Transações
 Visualização filtrada de todas as movimentações.
 
+## Prints Do Aplicativo
+
+<img width="352" height="664" alt="image" src="https://github.com/user-attachments/assets/edd71293-ab54-41a7-aa3f-0aca72d8814d" />
+<img width="393" height="848" alt="image" src="https://github.com/user-attachments/assets/b9500833-fe23-4e92-aaaf-a8910971356d" />
+
+<img width="393" height="695" alt="image" src="https://github.com/user-attachments/assets/b3f4cddb-4927-4a9f-98b4-52d4710d499c" />
+<img width="384" height="792" alt="image" src="https://github.com/user-attachments/assets/86c62dc4-0c44-4c6e-a099-91a2d81d854d" />
 ---
 
 ## ⚙️ Instalação e Configuração
